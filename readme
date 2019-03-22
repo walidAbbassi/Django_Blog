@@ -1,0 +1,12 @@
+#command:
+virtualenv virtual_env
+virtual_env\Scripts\activate
+django-admin startproject Django_Blog
+python manage.py startapp blog_Application
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py startapp users
+
+#query shell
