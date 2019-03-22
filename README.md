@@ -1,5 +1,4 @@
-# Django_Blog
-Django blog boostrap.
+# Django blog boostrap.
 ===================
 With Django 2.1.7
 
