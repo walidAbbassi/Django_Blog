@@ -1,1 +1,1 @@
-blog_Application/static/blog/* linguist-vendored
+*.js linguist-vendored=false
