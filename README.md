@@ -1,6 +1,6 @@
 # Django blog boostrap.
 ===================
-With Django 2.1.7
+## With Django 2.1.7
 
 ## Quick start
 ```
