@@ -20,6 +20,7 @@ $ ./manage.py runserver
 ```
 default superuser name : admin
 default superuser password : admin
+template : https://blackrockdigital.github.io/startbootstrap-clean-blog/
 ```
 
 Screenshot site:
