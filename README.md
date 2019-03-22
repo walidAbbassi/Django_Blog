@@ -20,8 +20,10 @@ $ ./manage.py runserver
 ```
 default superuser name : admin
 default superuser password : admin
-[template] : startbootstrap-clean-blog
 ```
+### References
+* [template startbootstrap-clean-blog]
+[template startbootstrap-clean-blog]: https://blackrockdigital.github.io/startbootstrap-clean-blog/
 
 Screenshot site:
 -------------
@@ -30,5 +32,3 @@ Screenshot site:
 ![Main blog2](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_2.PNG)
 
 ![Main blog3](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_3.PNG)
-
-[template]: https://blackrockdigital.github.io/startbootstrap-clean-blog/
