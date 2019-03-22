@@ -20,8 +20,8 @@ $ ./manage.py runserver
 ```
 Screenshot site:
 -------------
-![Main](https://pp.vk.me/c637821/v637821705/8cb4/TLDDCi_ndgQ.jpg)
+![Main blog1](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_1.PNG)
 
-![Main blog](https://pp.vk.me/c637821/v637821705/8cbe/TExSRHnsseA.jpg)
+![Main blog2](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_2.PNG)
 
-![Post](https://pp.vk.me/c637821/v637821705/8cc8/25Enn_fKBcA.jpg)
+![Main blog3](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_3.PNG)
