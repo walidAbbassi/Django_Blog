@@ -17,6 +17,11 @@ $ python manage.py migrate
 Step 3: run
 $ ./manage.py runserver
 ```
+```
+default superuser name : admin
+default superuser password : admin
+```
+
 Screenshot site:
 -------------
 ![Main blog1](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_1.PNG)
