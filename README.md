@@ -24,6 +24,8 @@ default superuser name : admin
 default superuser password : admin
 ```
 ### References
+* [Django documentation]
+* [Django Tutorial]
 * [template]
 
 Screenshot site:
@@ -34,4 +36,6 @@ Screenshot site:
 
 ![Main blog3](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_3.PNG)
 
+[Django documentation]:https://www.djangoproject.com
+[Django Tutorial]:https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 [template]:https://blackrockdigital.github.io/startbootstrap-clean-blog
