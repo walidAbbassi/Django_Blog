@@ -24,8 +24,7 @@ default superuser name : admin
 default superuser password : admin
 ```
 ### References
-- [template]
-[template]:https://blackrockdigital.github.io/startbootstrap-clean-blog/
+* [template]
 
 Screenshot site:
 -------------
@@ -34,3 +33,5 @@ Screenshot site:
 ![Main blog2](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_2.PNG)
 
 ![Main blog3](https://github.com/walidAbbassi/Django_Blog/blob/master/Screenshot/Django_blog_3.PNG)
+
+[template]:https://blackrockdigital.github.io/startbootstrap-clean-blog
