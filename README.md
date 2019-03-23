@@ -11,10 +11,12 @@ Step 2: Create and enable virtual environment
 $ virtualenv virtual_env
 $ virtual_env\Scripts\activate
 $ pip install -r requirements.txt
-Step 3: migrate
+Step 3: collect
+$ python manage.py collectstatic
+Step 4: migrate
 $ python manage.py makemigrations
 $ python manage.py migrate
-Step 3: run
+Step 5: run
 $ ./manage.py runserver
 ```
 ```
