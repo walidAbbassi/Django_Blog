@@ -24,7 +24,8 @@ default superuser name : admin
 default superuser password : admin
 ```
 ### References
-* https://blackrockdigital.github.io/startbootstrap-clean-blog/
+- [template]
+[template]:https://blackrockdigital.github.io/startbootstrap-clean-blog/
 
 Screenshot site:
 -------------
