@@ -28,20 +28,20 @@ default superuser password : admin
 Django_Blog
     ├───blog_Application 						==> Blog Application
     │   ├───migrations
-    │   ├───static 								  ==> Static Directory Blog Application
+    │   ├───static 								==> Static Directory Blog Application
     │   │   └───blog
     │   └───templates 							==> Templates Directory Blog Application
     │       ├───blog
     │       └───blog_Application
-    ├───Django_Blog 							  ==> Blog Project
-    ├───media 									    ==> Media Directory
+    ├───Django_Blog 							==> Blog Project
+    ├───media 									==> Media Directory
     │   └───profile_pics
     ├───Screenshot
-    ├───static 									    ==> Static Directory Project
+    ├───static 									==> Static Directory Project
     │   ├───admin
     │   ├───blog
     │   └───ckeditor
-    └───users 									    ==> Users Application
+    └───users 									==> Users Application
         ├───migrations
         └───templates 							==> Templates Directory Users Application
             └───users
