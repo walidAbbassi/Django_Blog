@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'blog_Application.apps.BlogApplicationConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
+    'ckeditor',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -120,7 +121,9 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
+# STATIC PATH
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 # MEDIA PATH
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
@@ -132,3 +135,17 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 # LOGIN URL REDIRECT
 LOGIN_REDIRECT_URL = 'blog-home'
 LOGIN_URL = 'login'
+
+# CKEDITOR PATH
+CKEDITOR_BASEPATH = "/static/ckeditor/ckeditor/"
+CKEDITOR_UPLOAD_PATH = "/static/uploads/"
+
+# CKEDITOR CONFIGURATION
+CKEDITOR_CONFIGS = {
+    'default': {
+        'toolbar': 'full',
+        'width': 'auto',
+        'enterMode': 2, #Remove the default <p> tag around text
+        'forcePasteAsPlainText': True,
+    },
+}
